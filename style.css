@@ -1,5 +1,11 @@
 /*Ethan Zhong,Web Dev,Period 7/8 Even, Level 2 Match Game*/
 
+#grid img {
+    border: 5px solid rgb(145, 140, 140);
+    margin: auto;
+    width: 150px;
+    height: 200px;
+}
 button {
     width: 150px;
     height: 175px;
@@ -12,10 +18,4 @@ button {
 
     margin: 0 auto;
     width: 25%;
-}
-#grid img {
-    border: 5px solid rgb(145, 140, 140);
-    margin: auto;
-    width: 150px;
-    height: 200px;
 }
